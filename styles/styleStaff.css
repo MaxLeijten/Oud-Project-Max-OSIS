@@ -1,0 +1,126 @@
+body {
+	background-color: #007acc;
+}
+
+ul {
+	margin: -100px 0px 0px 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+li a {
+	width: 150px;
+	height: 18px;
+	background-color: white;
+	padding: 20px;
+	border-bottom: solid 4px #ccccff;
+	color: black;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 17px;
+	display: inline-block;
+	float: left;
+}
+
+a:hover {
+	color: black;
+	border-bottom: solid 4px #004d80;
+	background-color: #99b3ff;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 75px;
+	font-family: sans-serif; 
+}
+
+h2 {
+	text-align: center;
+	margin-top: 40px;
+	font-family: sans-serif; 
+}
+
+.logootje {
+	width: 100px;
+	height: 100px;
+	display: block;
+	margin: 0px auto 0px auto;
+}
+
+.staff_max {
+	width: 237px;
+	height: 400px;
+	background-color: white;
+	padding: 20px;
+	font-family: sans-serif;
+	margin-left: 20px;
+	margin-top: 120px;
+	color: black;
+	display: inline-block;
+	float: left;
+}
+
+.staff_max:hover {
+	background-color: #b3b3ff;
+}
+
+.staff_max2 {
+	width: 237px;
+	height: 400px;
+	background-color: white;
+	padding: 20px;
+	font-family: sans-serif;
+	margin-left: 20px;
+	margin-top: 50px;
+	color: black;
+	display: inline-block;
+	float: left;
+}
+
+.staff_max2:hover {
+	background-color: #b3b3ff;
+}
+
+.staff_max3 {
+	width: 237px;
+	height: 400px;
+	background-color: white;
+	padding: 20px;
+	font-family: sans-serif;
+	margin-left: 315px;
+	margin-top: 50px;
+	color: black;
+	display: inline-block;
+	float: left;
+}
+
+.staff_max3:hover {
+	background-color: #b3b3ff;
+}
+
+.staffimage {
+	width: 80px;
+	height: 80px;
+	margin-left: 70px;
+	border: solid 3px black;
+}
+
+.nl {
+	background-color: #99b3ff;
+	border-bottom: solid 4px #004d80;
+}
+
+.footer {
+	width: 1465px;
+	height: 350px;
+	padding: 30px;
+	margin-left: -12px;
+}
+
+.footerbg {
+	width: 1500px;
+	height: 400px;
+	margin-top: 1200px;
+	background-color: white;
+}

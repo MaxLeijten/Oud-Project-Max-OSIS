@@ -1,0 +1,123 @@
+/*I know this is'nt a hard code to whrite and its easy to understand, thats because i am not an advanced HTML/CSS/JS developer. I know just the basics of HTML and CSS.*/
+
+body {
+	background-color: #007acc;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 75px;
+	font-family: sans-serif; 
+}
+
+h2 {
+	text-align: center;
+	margin-top: -70px;
+	font-family: sans-serif; 
+}
+
+ul {
+	margin: -100px 0px 0px 0px;
+	padding: 0pc;
+	list-style-type: none;
+}
+
+li a {
+	width: 150px;
+	height: 18px;
+	background-color: white;
+	padding: 20px;
+	border-bottom: solid 4px #ccccff;
+	color: black;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 17px;
+	display: inline-block;
+	float: left;
+}
+
+a:hover {
+	color: black;
+	border-bottom: solid 4px #004d80;
+	background-color: #99b3ff;
+}
+
+.what_is_osis {
+	text-align: left;
+	margin-top: 50px;
+	font-family: sans-serif;
+	background-color: white;
+	padding: 20px;
+}
+
+.headers {
+	margin: 100px auto auto auto;
+}
+
+.logootje {
+	width: 100px;
+	height: 100px;
+	display: block;
+	margin: 0px auto 0px auto;
+}
+
+.osisbg {
+	background-color: #007acc;
+	padding: 50px;
+}
+
+.pluspoints {
+	width: 300px;
+	height: 400px;
+	background-color: grey;
+	margin-top: 100px;
+	margin-left: 200px;
+	display: inline-block;
+	float: left;
+}
+
+.pluspoints1 {
+	width: 300px;
+	height: 400px;
+	background-color: grey;
+	margin-top: 100px;
+	margin-left: 60px;
+	display: inline-block;
+	float: left;
+}
+
+.pluspoints2 {
+	width: 300px;
+	height: 400px;
+	background-color: grey;
+	margin-top: 100px;
+	margin-left: 60px;
+	display: inline-block;
+	float: left;
+}
+
+
+
+#wayuo {
+	text-align: center;
+	font-family: sans-serif;
+	margin-top: 150px;
+}
+
+.footer {
+	width: 1465px;
+	height: 350px;
+	margin-top: 200px;
+}
+
+.osis_logo {
+	width: 600px;
+	height: 500px;
+	margin-left: -120px;
+}
+
+.nl {
+	background-color: #99b3ff;
+	border-bottom: solid 4px #004d80;
+}
